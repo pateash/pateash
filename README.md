@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), GCP and more
+- 🌱 I’m currently learning [Apache Kafka](https://github.com/apache/kafka)
+- 👯 I’m looking to collaborate on [CodingTools](https://github.com/codingtools/cdt)
+
+- ⚡ Checkout my Blog : [Codebrace](https://medium.com/codebrace)
 <!--
 **ashishpatel0720/ashishpatel0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
