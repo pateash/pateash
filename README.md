@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), GCP and more
+- 👯 I’m currently  to collaborating on [Apache Airflow](https://github.com/apache/airflow) and [CodingTools](https://github.com/codingtools/cdt)
+- 🔭 I’m currently working on [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), [Apache Hive](https://github.com/apache/hive), **Google Cloud Platform** and more
 - 🌱 I’m currently learning [Apache Kafka](https://github.com/apache/kafka)
-- 👯 I’m looking to collaborate on [CodingTools](https://github.com/codingtools/cdt)
 
 - ⚡ Checkout my Blog : [Codebrace](https://medium.com/codebrace)
 <!--
