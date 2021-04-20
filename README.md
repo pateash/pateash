@@ -2,10 +2,10 @@
 
 - ⚡ &nbsp;&nbsp;I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)
 
-| &nbsp;&nbsp;Issue                                                         | Pull Request                                           |
+| Issue                                                         | Pull Request                                           |
 | -------------                                                 |:-------------:                                         |
-| &nbsp;&nbsp;[#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) | 
-| &nbsp;&nbsp;[#15416](https://github.com/apache/airflow/issues/15416)      | TBD                                                     | 
+| [#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) | 
+| [#15416](https://github.com/apache/airflow/issues/15416)      | [#15454](https://github.com/apache/airflow/pull/15454) | 
 
 ---
 
