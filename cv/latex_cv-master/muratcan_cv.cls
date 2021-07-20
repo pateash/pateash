@@ -51,7 +51,7 @@
 % can makebox also be used?
 \newcommand\headerview{
 \begin{minipage}{0.25\linewidth}
-    \profpic{0.22}{images/profilpicture}
+    \profpic{0.22}{images/profilpicture4}
 \end{minipage}% 
 \hfill
 \begin{minipage}{0.45\linewidth}
@@ -195,6 +195,6 @@ Position: & \@claimedposition \\
 \newcommand\createfootnote{%
   \renewcommand{\footnotesize}{\fontsize{7pt}{11pt}\selectfont}
     \renewcommand\footnoterule{\rule{0.3\linewidth}{0.5pt}}
-    \let\thefootnote\relax\footnote{\today\ / \href{https://github.com/muratcankaracabey/latex_cv}{source code}}}
+    \let\thefootnote\relax\footnote{\today\ / \href{https://github.com/pateash/pateash/tree/main/cv}{source code}}}
 
 
