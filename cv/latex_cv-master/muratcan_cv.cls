@@ -2,7 +2,7 @@
 % this is inspired by Michael Pollind's Awesome CV 
 % Created from scratch as a much simpler alternative to it to actually learn LaTeX.
 % Might be interpreted as an easier-to-edit or easier-to-understand-what-is-going-on version of it.
-\author{Murat Can Karacabey}
+\author{Ashish Patel}
 \RequirePackage[dvipsnames]{xcolor} % moved here I guess article class causes option clash with xcolor if used after loading the class
 \LoadClass[11pt]{article}
 \NeedsTeXFormat{LaTeX2e}
@@ -32,6 +32,7 @@
 \newcommand*{\setthemecolor}[1]{\def\@themecolor{#1}}
 \newcommand*{\setlinkedinaccount}[1]{\def\@linkedinaccount{#1}}
 \newcommand*{\setgithubaccount}[1]{\def\@githubaccount{#1}}
+\newcommand*{\setportfolio}[1]{\def\@portfolio{#1}}
 
 %Setup for coverletter
 
@@ -51,7 +52,7 @@
 % can makebox also be used?
 \newcommand\headerview{
 \begin{minipage}{0.25\linewidth}
-    \profpic{0.22}{images/profilpicture4}
+    \profpic{0.18}{images/profilpicture3}
 \end{minipage}% 
 \hfill
 \begin{minipage}{0.45\linewidth}
@@ -76,8 +77,9 @@
 %contactsubviews 
     
     
-\newcommand{\githubview}{\href{\@linkedinaccount}{\faLinkedinSquare\ \footnotesize linkedin}}
-\newcommand{\linkedinview}{\href{\@githubaccount}{\faGithubSquare\ \footnotesize github}}
+\newcommand{\githubview}{\href{\@linkedinaccount}{\faLinkedin\ \footnotesize linkedin}}
+\newcommand{\linkedinview}{\href{\@githubaccount}{\faGithub\ \footnotesize github}}
+\newcommand{\portfolioview}{\href{\@portfolio}{\faUser\ \footnotesize portfolio}}
 
 \newcommand{\name}{%
     {\large \@firstname \ \textsc{\@lastname}}
@@ -85,8 +87,10 @@
 
 \newcommand{\contact}{%
         {\small \@address  \cps \@mobile \\ \@mail%
-        \\%
-        \linkedinview \cps \githubview \\ 
+        \\
+        \ \
+        
+        \linkedinview \cps \githubview \cps \portfolioview \\ 
         } % 
 }
 
@@ -139,7 +143,7 @@ Position: & \@claimedposition \\
 }
 
 \newcommand{\datedexperience}[2]{%
-  \begin{small} \mbox { \hspace{1em} \scshape \textbf{#1} } \end{small} \hfill \datetext{#2}\\[0.01cm] %
+  \begin{small} \mbox { \hspace{0 em} \scshape \textbf{#1} } \end{small} \hfill \datetext{#2}\\[0.0cm] %
 }
 
 \newcommand{\explanation}[1]{%
@@ -195,6 +199,6 @@ Position: & \@claimedposition \\
 \newcommand\createfootnote{%
   \renewcommand{\footnotesize}{\fontsize{7pt}{11pt}\selectfont}
     \renewcommand\footnoterule{\rule{0.3\linewidth}{0.5pt}}
-    \let\thefootnote\relax\footnote{\today\ / \href{https://github.com/pateash/pateash/tree/main/cv}{source code}}}
+    \let\thefootnote\relax\footnote{\today\ / \href{https://ashish.live}{ashish.live}}}
 
 
