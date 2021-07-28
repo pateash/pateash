@@ -22,6 +22,7 @@
 \RequirePackage{array}
 \pagestyle{empty}
 
+
 %Setup
 
 \newcommand*{\setname}[2]{\def\@firstname{#1}\def\@lastname{#2}}
@@ -52,7 +53,7 @@
 % can makebox also be used?
 \newcommand\headerview{
 \begin{minipage}{0.25\linewidth}
-    \profpic{0.18}{images/profilpicture3}
+    \profpic{0.17}{images/profilpicture3}
 \end{minipage}% 
 \hfill
 \begin{minipage}{0.45\linewidth}
