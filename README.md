@@ -2,17 +2,17 @@
 
 - ⚡ &nbsp;&nbsp;I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)
 
-| Issue                                                         | Pull Request                                           |
-| -------------                                                 |:-------------:                                         |
-| [#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) | 
-| [#15416](https://github.com/apache/airflow/issues/15416)      | [#15454](https://github.com/apache/airflow/pull/15454) | 
-| [#12401](https://github.com/apache/airflow/issues/12401)      | [#15574](https://github.com/apache/airflow/pull/15574) | 
-| [#16692](https://github.com/apache/airflow/issues/16692)      | [#16931](https://github.com/apache/airflow/pull/16931) | 
-| -                                                             | [#17059](https://github.com/apache/airflow/pull/17059) | 
-| -                                                             | [#17058](https://github.com/apache/airflow/pull/17058) | 
-| [#16911](https://github.com/apache/airflow/issues/16911)      | TBD                                                    |
-| [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |
-| [#19098](https://github.com/apache/airflow/issues/19098)      | TBD                                                    |
+| Issue                                                         | Pull Request                                           | Description  |
+| -------------                                                 |:-------------:                                         | -----------  |
+| [#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) |              |
+| [#15416](https://github.com/apache/airflow/issues/15416)      | [#15454](https://github.com/apache/airflow/pull/15454) |              |
+| [#12401](https://github.com/apache/airflow/issues/12401)      | [#15574](https://github.com/apache/airflow/pull/15574) |              |
+| [#16692](https://github.com/apache/airflow/issues/16692)      | [#16931](https://github.com/apache/airflow/pull/16931) |              |
+| -                                                             | [#17059](https://github.com/apache/airflow/pull/17059) |              |
+| -                                                             | [#17058](https://github.com/apache/airflow/pull/17058) |              | 
+| [#16911](https://github.com/apache/airflow/issues/16911)      | TBD                                                    |              | 
+| [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |              | 
+| [#19098](https://github.com/apache/airflow/issues/19098)      | TBD                                                    |              |
 
 ---
 
