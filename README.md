@@ -12,6 +12,7 @@
 | -                                                             | [#17058](https://github.com/apache/airflow/pull/17058) | 
 | [#16911](https://github.com/apache/airflow/issues/16911)      | TBD                                                    |
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |
+| [#19098](https://github.com/apache/airflow/issues/19098)      | TBD                                                    |
 
 ---
 
