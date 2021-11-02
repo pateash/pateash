@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, 
+
+![](https://komarev.com/ghpvc/?username=pateash&style=flat-square&color=blue)
+[![LinkedIn Badge](https://img.shields.io/badge/-ashishpatel0720-blue?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ashishpatel0720/)
+[![Twitter Badge](https://img.shields.io/badge/-ashishpatel0720-blue?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/ashishpatel0720)
+[![G-Mail Badge](https://img.shields.io/badge/-ashishpatel0720@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto://ashishpatel0720@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-ashishpatel0720-black?style=flat-square&logo=medium&logoColor=white&color=black)](https://medium.com/@ashishpatel0720)
+
+![My Profile Overview](https://github-readme-stats.vercel.app/api?username=pateash&show_icons=true&count_private=true)
+
+<!-- ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=pateash&layout=compact&count_private=true) -->
 
 - ⚡ &nbsp;&nbsp;I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)
 
@@ -22,11 +32,13 @@
 
 - 🤔 &nbsp;&nbsp;Checkout my Blog : [Codebrace](https://medium.com/codebrace)
 
-## Contact Me
+<!-- ## Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-ashishpatel0720-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishpatel0720)](https://www.linkedin.com/in/ashishpatel0720) [![Twitter Badge](https://img.shields.io/badge/-ashishpatel0720-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ashishpatel0720)](https://twitter.com/ashishpatel0720) [![Gmail Badge](https://img.shields.io/badge/-ashishpatel0720@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashishpatel0720@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-ashishpatel0720-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishpatel0720)](https://www.linkedin.com/in/ashishpatel0720)
+[![Twitter Badge](https://img.shields.io/badge/-ashishpatel0720-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ashishpatel0720)](https://twitter.com/ashishpatel0720) 
+[![Gmail Badge](https://img.shields.io/badge/-ashishpatel0720@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashishpatel0720@gmail.com) 
 
-
+ -->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-scala-informational?style=flat&logo=scala&logoColor=white&color=6aa6f8)
