@@ -20,7 +20,7 @@
 | [#16692](https://github.com/apache/airflow/issues/16692)      | [#16931](https://github.com/apache/airflow/pull/16931) |              |
 | -                                                             | [#17059](https://github.com/apache/airflow/pull/17059) |              |
 | -                                                             | [#17058](https://github.com/apache/airflow/pull/17058) |              | 
-| [#16911](https://github.com/apache/airflow/issues/16911)      | TBD                                                    |              | 
+| [#16911](https://github.com/apache/airflow/issues/16911)      | [#19446](https://github.com/apache/airflow/pull/19446) |              | 
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |              | 
 | [#19098](https://github.com/apache/airflow/issues/19098)      | TBD                                                    |              |
 
