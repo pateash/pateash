@@ -21,8 +21,9 @@
 | [#16911](https://github.com/apache/airflow/issues/16911)      | [#19446](https://github.com/apache/airflow/pull/19446) | Providing more information in docs for DataprocCreateCluster operator migration         | 
 | [#19098](https://github.com/apache/airflow/issues/19098)      | [#20273](https://github.com/apache/airflow/pull/20273) |   Showing approximate time remaining for next dag_run in Airflow                    |
 | [#20300](https://github.com/apache/airflow/issues/20300)      | [#21076](https://github.com/apache/airflow/pull/21076) |Add Github provider                   | 
+| [#20300](https://github.com/apache/airflow/issues/21720)      | TBD | Add ability to pin Airflow Variable(s)/Connection(s) in the UI               | 
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | 
-
+| [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | 
 ---
 
 - 👯  &nbsp;&nbsp;I’m currently  to collaborating on [CodingTools](https://github.com/codingtools/cdt)
