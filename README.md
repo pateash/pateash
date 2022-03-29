@@ -24,7 +24,7 @@
 | [#20300](https://github.com/apache/airflow/issues/21720)      | [#21946](https://github.com/apache/airflow/pull/21946) | Add ability to pin Airflow Variable(s)/Connection(s) in the UI               | 
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | 
 | [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | 
-| [#17778](https://github.com/apache/airflow/issues/17778)      | TBD                                                    |Add ArangoDB hook| 
+| [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| 
 
 ---
 
