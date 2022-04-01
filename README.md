@@ -25,7 +25,9 @@
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | 
 | [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | 
 | [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| 
+| [#10893](https://github.com/apache/airflow/issues/10893)      | TBD |Add Clickhouse hook| 
 
+https://github.com/apache/airflow/issues/10893
 ---
 
 - 👯  &nbsp;&nbsp;I’m currently  to collaborating on [CodingTools](https://github.com/codingtools/cdt)
