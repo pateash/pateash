@@ -22,8 +22,8 @@
 | [#19098](https://github.com/apache/airflow/issues/19098)      | [#20273](https://github.com/apache/airflow/pull/20273) |   Showing approximate time remaining for next dag_run in Airflow                    | Merged |
 | [#20300](https://github.com/apache/airflow/issues/20300)      | [#21076](https://github.com/apache/airflow/pull/21076) |Add Github provider                   | Merged |
 | [#20300](https://github.com/apache/airflow/issues/21720)      | [#21946](https://github.com/apache/airflow/pull/21946) | Add ability to pin Airflow Variable(s)/Connection(s) in the UI               | Merged |
-| [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | 
-| [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | 
+| [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | Blocked |
+| [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | TODO |
 | [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| Merged |
 | [#10893](https://github.com/apache/airflow/issues/10893)      | TBD |Add Clickhouse hook| In Progress |
 | [#14563](https://github.com/apache/airflow/issues/14563)      | [#24902](https://github.com/apache/airflow/pull/24902) |TaskGroup Sensor| In Review |
