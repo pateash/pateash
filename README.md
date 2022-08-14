@@ -12,21 +12,21 @@
 
 - ⚡ &nbsp;&nbsp;I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)
 
-| Issue                                                         | Pull Request                                           | Description  |
-| -------------                                                 |:-------------:                                         | -----------  |
-| [#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) |  Passing custom image family name to the DataProcClusterCreateoperator            |
-| [#15416](https://github.com/apache/airflow/issues/15416)      | [#15454](https://github.com/apache/airflow/pull/15454) | Breeze should load local tmux configuration in 'breeze start-airflow'             |
-| [#12401](https://github.com/apache/airflow/issues/12401)      | [#15574](https://github.com/apache/airflow/pull/15574) |  Add means to Duplicate connections from UI           |
-| [#16692](https://github.com/apache/airflow/issues/16692)      | [#16931](https://github.com/apache/airflow/pull/16931) | show schedule_interval/timetable description in UI             |
-| [#16911](https://github.com/apache/airflow/issues/16911)      | [#19446](https://github.com/apache/airflow/pull/19446) | Providing more information in docs for DataprocCreateCluster operator migration         | 
-| [#19098](https://github.com/apache/airflow/issues/19098)      | [#20273](https://github.com/apache/airflow/pull/20273) |   Showing approximate time remaining for next dag_run in Airflow                    |
-| [#20300](https://github.com/apache/airflow/issues/20300)      | [#21076](https://github.com/apache/airflow/pull/21076) |Add Github provider                   | 
-| [#20300](https://github.com/apache/airflow/issues/21720)      | [#21946](https://github.com/apache/airflow/pull/21946) | Add ability to pin Airflow Variable(s)/Connection(s) in the UI               | 
+| Issue                                                         | Pull Request                                           | Description  | Status |
+| -------------                                                 |:-------------:                                         | -----------  | ------ |
+| [#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) |  Passing custom image family name to the DataProcClusterCreateoperator            | Merged |
+| [#15416](https://github.com/apache/airflow/issues/15416)      | [#15454](https://github.com/apache/airflow/pull/15454) | Breeze should load local tmux configuration in 'breeze start-airflow'             | Merged |
+| [#12401](https://github.com/apache/airflow/issues/12401)      | [#15574](https://github.com/apache/airflow/pull/15574) |  Add means to Duplicate connections from UI           | Merged |
+| [#16692](https://github.com/apache/airflow/issues/16692)      | [#16931](https://github.com/apache/airflow/pull/16931) | show schedule_interval/timetable description in UI             | Merged |
+| [#16911](https://github.com/apache/airflow/issues/16911)      | [#19446](https://github.com/apache/airflow/pull/19446) | Providing more information in docs for DataprocCreateCluster operator migration         | Merged | 
+| [#19098](https://github.com/apache/airflow/issues/19098)      | [#20273](https://github.com/apache/airflow/pull/20273) |   Showing approximate time remaining for next dag_run in Airflow                    | Merged |
+| [#20300](https://github.com/apache/airflow/issues/20300)      | [#21076](https://github.com/apache/airflow/pull/21076) |Add Github provider                   | Merged |
+| [#20300](https://github.com/apache/airflow/issues/21720)      | [#21946](https://github.com/apache/airflow/pull/21946) | Add ability to pin Airflow Variable(s)/Connection(s) in the UI               | Merged |
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | 
 | [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | 
-| [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| 
-| [#10893](https://github.com/apache/airflow/issues/10893)      | TBD |Add Clickhouse hook| 
-| [#14563](https://github.com/apache/airflow/issues/14563)      | [#24902](https://github.com/apache/airflow/pull/24902) |TaskGroup Sensor| 
+| [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| Merged |
+| [#10893](https://github.com/apache/airflow/issues/10893)      | TBD |Add Clickhouse hook| In Progress |
+| [#14563](https://github.com/apache/airflow/issues/14563)      | [#24902](https://github.com/apache/airflow/pull/24902) |TaskGroup Sensor| In Review |
 ---
 
 - 👯  &nbsp;&nbsp;I’m currently  to collaborating on [CodingTools](https://github.com/codingtools/cdt)
