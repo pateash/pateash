@@ -10,8 +10,11 @@
 
 <!-- ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=pateash&layout=compact&count_private=true) -->
 
-- ⚡ &nbsp;&nbsp;I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)
 
+<details>
+  <summary>I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)</summary>
+ <br>
+ 
 | Issue                                                         | Pull Request                                           | Description  | Status |
 | -------------                                                 |:-------------:                                         | -----------  | ------ |
 | [#15245](https://github.com/apache/airflow/issues/15245)      | [#15250](https://github.com/apache/airflow/pull/15250) |  Passing custom image family name to the DataProcClusterCreateoperator            | Merged |
@@ -28,6 +31,8 @@
 | [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | Blocked |
 | [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | TODO |
 ---
+
+</details>
 
 - 👯  &nbsp;&nbsp;I’m currently  to collaborating on [CodingTools](https://github.com/codingtools/cdt)
 - 🔭  &nbsp;&nbsp;I’m currently working on [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), [Apache Hive](https://github.com/apache/hive), **Google Cloud Platform** and more
