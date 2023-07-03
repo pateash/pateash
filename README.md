@@ -6,13 +6,10 @@
 [![G-Mail Badge](https://img.shields.io/badge/-ashishpatel0720@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto://ashishpatel0720@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-ashishpatel0720-black?style=flat-square&logo=medium&logoColor=white&color=black)](https://medium.com/@ashishpatel0720)
 
-![My Profile Overview](https://github-readme-stats.vercel.app/api?username=pateash&show_icons=true&count_private=true)
-
-<!-- ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=pateash&layout=compact&count_private=true) -->
-
+![My Profile Overview](https://github-readme-stats.vercel.app/api?username=pateash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
 <details>
-  <summary>I'm currently Contributing to [Apache Airflow](https://github.com/apache/airflow)</summary>
+  <summary>I'm currently Contributing to Apache Airflow</summary>
  <br>
  
 | Issue                                                         | Pull Request                                           | Description  | Status |
@@ -68,6 +65,22 @@
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=6aa6f8)
+
+---
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pateash"/>
+  <br/>
+  <a href='https://profile.codersrank.io/user/pateash/'>
+  <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pateash&padding=30&skills=java,scala,python"
+/>
+  </a>
+
+</details>
+
+---
 
 
 <!--
