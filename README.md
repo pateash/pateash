@@ -8,7 +8,7 @@
 
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=pateash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-<details>
+<details open>
   <summary>I'm currently Contributing to Apache Airflow</summary>
  <br>
  
