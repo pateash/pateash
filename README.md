@@ -6,6 +6,10 @@
 [![G-Mail Badge](https://img.shields.io/badge/-ashishpatel0720@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto://ashishpatel0720@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-ashishpatel0720-black?style=flat-square&logo=medium&logoColor=white&color=black)](https://medium.com/@ashishpatel0720)
 
+  <br/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pateash"/>
+  <br/>
+  
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=pateash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
 <details open>
@@ -21,18 +25,16 @@
 | [#16911](https://github.com/apache/airflow/issues/16911)      | [#19446](https://github.com/apache/airflow/pull/19446) | Providing more information in docs for DataprocCreateCluster operator migration         | Merged | 
 | [#19098](https://github.com/apache/airflow/issues/19098)      | [#20273](https://github.com/apache/airflow/pull/20273) |   Showing approximate time remaining for next dag_run in Airflow                    | Merged |
 | [#20300](https://github.com/apache/airflow/issues/20300)      | [#21076](https://github.com/apache/airflow/pull/21076) |Add Github provider                   | Merged |
-| [#20300](https://github.com/apache/airflow/issues/21720)      | [#21946](https://github.com/apache/airflow/pull/21946) | Add ability to pin Airflow Variable(s)/Connection(s) in the UI               | Merged |
 | [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| Merged |
-| [#10893](https://github.com/apache/airflow/issues/10893)      | [#25714](https://github.com/apache/airflow/pull/25714)|Add Clickhouse hook| In Review |
 | [#14563](https://github.com/apache/airflow/issues/14563)      | [#24902](https://github.com/apache/airflow/pull/24902) |TaskGroup Sensor| Merged |
-| [#17362](https://github.com/apache/airflow/issues/17362)      | TBD                                                    |Implementing Open API client for JVM based languages   | Blocked |
-| [#15468](https://github.com/apache/airflow/issues/15468)      | TBD                                                    |DAG state is Success even in case of intermediate Task Failure for TriggerRule.ALL_DONE | TODO |
+
+Checkout list of all contributions [here](https://github.com/apache/airflow/commits?author=pateash) 
 ---
 
 </details>
 
-- 👯  &nbsp;&nbsp;I’m currently  to collaborating on [CodingTools](https://github.com/codingtools/cdt)
-- 🔭  &nbsp;&nbsp;I’m currently working on [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), [Apache Hive](https://github.com/apache/hive), **Google Cloud Platform** and more
+<!-- - 👯  &nbsp;&nbsp;I’m currently  to collaborating on [CodingTools](https://github.com/codingtools/cdt)  -->
+- 🔭  &nbsp;&nbsp;I’m currently working on [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow) and more
 - 🌱 &nbsp;&nbsp;I’m currently learning [Apache Kafka](https://github.com/apache/kafka)
 
 - 🤔 &nbsp;&nbsp;Checkout my Blog : [Codebrace](https://medium.com/codebrace)
@@ -69,13 +71,9 @@
 ---
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pateash"/>
-  <br/>
+  
   <a href='https://profile.codersrank.io/user/pateash/'>
-  <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pateash&padding=30&skills=java,scala,python"
-/>
+  <img  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pateash&padding=30&skills=java,scala,python"/>
   </a>
 
 </details>
