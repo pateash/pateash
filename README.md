@@ -70,7 +70,9 @@ Checkout list of all contributions [here](https://github.com/apache/airflow/comm
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   
   <br/>
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pateash"/>
+<!--  
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pateash"/>
+    -->
   <br/>
   
   <a href='https://profile.codersrank.io/user/pateash/'>
