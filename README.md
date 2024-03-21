@@ -24,8 +24,8 @@
 | [#20300](https://github.com/apache/airflow/issues/20300)      | [#21076](https://github.com/apache/airflow/pull/21076) |Add Github provider                   | Merged |
 | [#17778](https://github.com/apache/airflow/issues/17778)      | [#22548](https://github.com/apache/airflow/pull/22548) |Add ArangoDB hook| Merged |
 | [#14563](https://github.com/apache/airflow/issues/14563)      | [#24902](https://github.com/apache/airflow/pull/24902) |TaskGroup Sensor| Merged |
+|    |  | and many more, Checkout list of all contributions [here](https://github.com/apache/airflow/commits?author=pateash)||
 
-Checkout list of all contributions [here](https://github.com/apache/airflow/commits?author=pateash) 
 ---
 
 </details>
