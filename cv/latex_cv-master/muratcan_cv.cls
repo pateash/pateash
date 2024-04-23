@@ -1,5 +1,5 @@
 % Created by Murat Can Karacabey
-% this is inspired by Michael Pollind's Awesome CV
+% this is inspired by Michael Pollind's Awesome CV 
 % Created from scratch as a much simpler alternative to it to actually learn LaTeX.
 % Might be interpreted as an easier-to-edit or easier-to-understand-what-is-going-on version of it.
 \author{Ashish Patel}
@@ -54,10 +54,10 @@
 \newcommand\headerview{
 \begin{minipage}{0.25\linewidth}
     \profpic{0.05}{images/E3366047-86B5-4C64-A8B6-0E389B02161B (1) (1)}
-\end{minipage}%
+\end{minipage}% 
 \hfill
 \begin{minipage}{0.45\linewidth}
-    \center \name \\[0.05cm]
+    \center \name \\[0.05cm] 
     \contact % address \ mobile \\ mail
 \end{minipage}
 }
@@ -67,17 +67,17 @@
 \newsavebox{\picbox}
 \newcommand{\profpic}[2]{%
     \savebox{\picbox}{%
-    \includegraphics[scale=#1]{#2}}%
+    \includegraphics[scale=#1]{#2}}% 
     \tikz\node [draw, circle,%
-    line width=4pt, color=white,%
+    line width=4pt, color=white,% 
     minimum width=\wd\picbox,minimum height=\ht\picbox,%
-    path picture={ \node at (path picture bounding box.center)%
-    {\usebox{\picbox}};}]%
+    path picture={ \node at (path picture bounding box.center)% 
+    {\usebox{\picbox}};}]% 
     {};}
-
-%contactsubviews
-
-
+    
+%contactsubviews 
+    
+    
 \newcommand{\githubview}{\href{\@linkedinaccount}{\faLinkedin\ \footnotesize linkedin}}
 \newcommand{\linkedinview}{\href{\@githubaccount}{\faGithub\ \footnotesize github}}
 \newcommand{\portfolioview}{\href{\@portfolio}{\faUser\ \footnotesize portfolio}}
@@ -90,16 +90,16 @@
         {\small \@address  \cps \@mobile \\ \@mail%
         \\
         \ \
-
-        \linkedinview \cps \githubview \cps \portfolioview \\
-        } %
+        
+        \linkedinview \cps \githubview \cps \portfolioview \\ 
+        } % 
 }
 
 % Covverletterview
 
-\newcommand\coverletter[1]{
-\\  \coverlettersubview
-\section{} \vspace{1ex}
+\newcommand\coverletter[1]{ 
+\\  \coverlettersubview 
+\section{} \vspace{1ex} 
 \textbf{ hi \@contactperson, \\[0.1cm]}
   #1
 }
@@ -125,7 +125,7 @@ Position: & \@claimedposition \\
 
 % Edit section styles
 
-\titleformat{\section}      % Customise the \section command
+\titleformat{\section}      % Customise the \section command 
   {\large\bfseries\scshape\raggedright\color{\@themecolor}} % Make the \section headers large (\Large),
                                % small capitals (\scshape) and left aligned (\raggedright)
   {}{0em}                      % Can be used to give a prefix to all sections, like 'Section ...'
@@ -140,7 +140,7 @@ Position: & \@claimedposition \\
 }
 
 \newcommand{\datetext}[1]{%
-{\itshape  \footnotesize \mdseries  \color{black!60!\@themecolor} #1 }
+{\itshape  \footnotesize \mdseries  \color{black!60!\@themecolor} #1 } 
 }
 
 \newcommand{\datedexperience}[2]{%
@@ -160,7 +160,7 @@ Position: & \@claimedposition \\
 }
 
 \newcommand{\addblocktext}[2]{%
-  \section{#1}
+  \section{#1} 
   \indent \explanationdetail{\hspace{4ex} #2}
 }
 
@@ -200,5 +200,5 @@ Position: & \@claimedposition \\
 \newcommand\createfootnote{%
   \renewcommand{\footnotesize}{\fontsize{7pt}{11pt}\selectfont}
     \renewcommand\footnoterule{\rule{0.3\linewidth}{0.5pt}}
-    \let\thefootnote\relax\footnote{\today\ / \href{https://ashish.live}{ashish.live}}}
+    \let\thefootnote\relax\footnote{\today\ / \href{https://pateash.in}{pateash.in}}}
 
